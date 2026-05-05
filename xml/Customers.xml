@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+
+    <Id>1</Id>
+    <CustomerName>ילחר</CustomerName>
+    <Address />
+    <Phone>0583226902</Phone>
+  </Customer>
+  <Customer>
+    <Id>678</Id>
+    <CustomerName>רכעינחמליענמ</CustomerName>
+    <Phone>34567890-876545</Phone>
+  </Customer>
+  <Customer>
+    <Id>5</Id>
+    <CustomerName>AAA</CustomerName>
+    <Phone>098789667</Phone>
+  </Customer>
+  <Customer>
+    <Id>123</Id>
+    <CustomerName>רבקה בראשי</CustomerName>
+    <Address>רשבי 13</Address>
+    <Phone>0583252581</Phone>
+  </Customer>
+  <Customer>
+    <Id>12</Id>
+    <CustomerName>רחלי ורבקה</CustomerName>
+    <Address>יעעגכעחי</Address>
+    <Phone>4576798954</Phone>
+  </Customer>
+
+</ArrayOfCustomer>
